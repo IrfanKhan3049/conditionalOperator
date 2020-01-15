@@ -1,0 +1,29 @@
+// for loop 
+
+for x in xyz{
+print(x)
+}
+
+// condition
+
+if x>y{
+  print("x is greater than y")
+
+}else if y>x{
+  print("y is greater than x ")
+
+} else{
+ print("x is equal to y")
+}
+
+// switch
+
+
+switch xyz{
+case "x": print("the value is x")
+case "y": print("the value is y")
+case "z": print("the value is y")
+
+default: print("Nothing Found")
+
+}
